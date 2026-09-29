@@ -181,9 +181,17 @@ I'm working toward a portfolio of **advanced, practical systems** across Data Sc
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devanshshukla-3004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1" height="165" alt="GitHub Stats">
+<a href="https://github.com/devanshshukla-3004">
+  <img src="https://img.shields.io/badge/GITHUB_PROFILE-0B1120?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub Profile">
+</a>
+&nbsp;
+<a href="https://github.com/devanshshukla-3004?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-0B1120?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="Repositories">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshshukla-3004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1" height="165" alt="Top Languages">
+<br><br>
+
+**Explore my contributions, repositories and ongoing projects on GitHub.**
 
 </div>
 
