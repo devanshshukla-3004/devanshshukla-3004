@@ -1,10 +1,8 @@
 <div align="center">
 
-# <span style="color:#38BDF8">DEVANSH SHUKLA</span> 👋
+<img src="./assets/profile-banner.svg" alt="Devansh Shukla — Data Science, AI/ML, Cybersecurity" width="100%">
 
-### <b>DATA SCIENCE • AI/ML • CYBERSECURITY</b>
-
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/devansh-shukla-22b7a7429/">
   <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn">
