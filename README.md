@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Devansh Shukla — Data Science, AI/ML, Cybersecurity" width="100%">
+<img src="./profile-banner-final.png" alt="Devansh Shukla — Data Science, AI/ML, Cybersecurity" width="100%">
 
 <br><br>
 
