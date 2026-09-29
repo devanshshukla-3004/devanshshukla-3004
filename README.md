@@ -1,146 +1,224 @@
 <div align="center">
 
-# Hi, I'm Devansh Shukla 👋
+# <span style="color:#38BDF8">DEVANSH SHUKLA</span> 👋
 
-### BTech CSE Student • Data Science • AI/ML • Cybersecurity
+### <b>DATA SCIENCE • AI/ML • CYBERSECURITY</b>
 
-<p>
-  <a href="https://www.linkedin.com/in/devansh-shukla-22b7a7429/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/devanshshukla-3004">GitHub</a>
-</p>
+<br>
+
+<a href="https://www.linkedin.com/in/devansh-shukla-22b7a7429/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://github.com/devanshshukla-3004">
+  <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+</a>
 
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science student focused on building practical, data-driven and security-oriented technology projects.
-
-I enjoy taking ideas from:
-
-**Problem → Data → Code → Model → Application → Deployment**
-
-My current interests include:
-
-- 📊 Data Science & Analytics
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cybersecurity
-- 💻 Python-based software development
-- 🚀 Building practical projects that solve real-world problems
-
-> **Learn → Build → Deploy → Improve**
+<br>
 
 ---
 
-## 🧠 What I Build
+## ⚡ ABOUT ME
 
-| Area | Focus |
-|---|---|
-| 📊 Data Science | Data analysis, visualization, predictive analytics |
-| 🤖 AI / ML | Machine learning models and intelligent applications |
-| 🔐 Cybersecurity | Security tools, threat detection and defensive systems |
-| 💻 Software | Python applications, APIs and dashboards |
+I'm a **BTech CSE student** focused on building practical, data-driven and security-oriented technology projects.
+
+I like turning ideas into working systems:
+
+<div align="center">
+
+**PROBLEM → DATA → CODE → MODEL → APPLICATION → DEPLOYMENT**
+
+</div>
+
+My current areas of interest:
+
+- 📊 **Data Science & Analytics**
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🔐 **Cybersecurity**
+- 💻 **Python-based software development**
+- 🚀 **Real-world projects and deployment**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 WHAT I BUILD
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 DATA SCIENCE
+
+Data analysis, visualization, predictive analytics and interactive dashboards.
+
+</td>
+<td width="50%">
+
+### 🤖 AI / ML
+
+Machine learning models and intelligent applications built around practical problems.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 CYBERSECURITY
+
+Security-focused tools, detection systems and defensive technology.
+
+</td>
+<td width="50%">
+
+### 💻 SOFTWARE
+
+Python applications, APIs, automation and data-driven web applications.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ TECH STACK
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,css" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css" alt="Python, C, HTML, CSS">
 </p>
 
 ### Data Science & AI
 
-**Pandas • NumPy • Scikit-learn • Plotly • Streamlit • Jupyter**
+**Pandas** • **NumPy** • **Scikit-learn** • **Plotly** • **Streamlit** • **Jupyter**
 
-### Tools
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,pycharm,vscode" alt="Git, GitHub, PyCharm, VS Code">
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 FEATURED PROJECTS
 
-### 📊 HR Employee Attrition & Workforce Analytics Dashboard
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Interactive Data Science dashboard for analyzing employee attrition, workforce patterns and attrition risk.
+### 📊 HR Employee Attrition
 
-**Built with:** Python • Pandas • Plotly • Streamlit • Scikit-learn
+Interactive workforce analytics dashboard covering attrition patterns, risk analysis and data-driven retention insights.
 
-[🔗 GitHub](https://github.com/devanshshukla-3004/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard)
-&nbsp;•&nbsp;
-[🌐 Live Demo](https://hr-employee-attrition-and-workforce-analytics-dashboard-dirquy.streamlit.app/)
+**Python • Pandas • Plotly • Streamlit • Scikit-learn**
+
+<a href="https://github.com/devanshshukla-3004/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://hr-employee-attrition-and-workforce-analytics-dashboard-dirquy.streamlit.app/">Live Demo</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Inbox-Copilot
 
-Python-based autonomous email-triage project designed to assist with email organization and processing.
+Python-based email-triage project focused on assisting with email organization and processing.
 
-**Built with:** Python
+**Python**
+
+<a href="https://github.com/devanshshukla-3004/Inbox-Copilot">View Project</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏠 HireFlow
 
 A web-based project focused on simplifying the hiring workflow.
 
-**Built with:** HTML
+**HTML**
 
-### 🔐 Password Strength Checker
+<a href="https://github.com/devanshshukla-3004/HireFlow">View Project</a>
 
-Security-focused application for evaluating password strength.
+</td>
+<td width="50%" valign="top">
 
-**Built with:** Python
+### 🔐 Security Utilities
 
-### 🔑 OTP Generator & Verifier
+Password strength checking and OTP generation/verification projects focused on foundational security concepts.
 
-Python-based OTP generation and verification system.
+**Python**
 
-**Built with:** Python
+<a href="https://github.com/devanshshukla-3004/CS_2_PasswordStrengthChecker_BYTE">Password Checker</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/devanshshukla-3004/CS_5_OTPGeneratorVerifier_BYTE">OTP Verifier</a>
 
----
-
-## 🎯 Currently Focusing On
-
-- Advanced Python
-- Data Science & Machine Learning
-- AI-powered applications
-- Cybersecurity
-- Building production-oriented projects
-- APIs and deployment
-- Developing a portfolio of advanced real-world systems
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Activity
+## 🎯 CURRENT FOCUS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshshukla-3004&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshshukla-3004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<table>
+<tr>
+<td>🐍 Advanced Python</td>
+<td>📊 Data Science & ML</td>
+<td>🤖 AI Applications</td>
+</tr>
+<tr>
+<td>🔐 Cybersecurity</td>
+<td>🌐 APIs & Deployment</td>
+<td>🧩 Real-world Systems</td>
+</tr>
+</table>
+
+I'm working toward a portfolio of **advanced, practical systems** across Data Science, AI/ML and Cybersecurity.
 
 ---
 
-## 🧭 Learning Philosophy
+## 📈 GITHUB ACTIVITY
 
-**Learn → Build → Deploy → Improve**
+<div align="center">
 
-Every project is an opportunity to understand something deeper, solve a practical problem, and improve the way I build software.
+<img src="https://github-readme-stats.vercel.app/api?username=devanshshukla-3004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1" height="165" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshshukla-3004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=38BDF8&text_color=CBD5E1" height="165" alt="Top Languages">
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🧭 BUILD PHILOSOPHY
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/devansh-shukla-22b7a7429/">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/devanshshukla-3004">GitHub</a>
+### **LEARN → BUILD → DEPLOY → IMPROVE**
 
-</p>
+*Understand the problem. Build the system. Test it. Deploy it. Keep improving it.*
 
-<p align="center">
-<strong>Building intelligent systems for a safer, smarter and data-driven future.</strong>
-</p>
+</div>
+
+---
+
+## 🤝 LET'S CONNECT
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/devansh-shukla-22b7a7429/">
+<img src="https://img.shields.io/badge/LINKEDIN-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0B1120" alt="LinkedIn">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/devanshshukla-3004">
+<img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+</a>
+
+<br><br>
+
+<b>Building intelligent systems for a safer, smarter and data-driven future.</b>
+
+</div>
