@@ -154,6 +154,30 @@ Password strength checking and OTP generation/verification projects focused on f
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 AI Urban Traffic Command Center
+
+An ML-assisted traffic-management prototype exploring congestion classification, signal planning, simulation, demand forecasting, and model-based environmental analysis using simulated data.
+
+<a href="https://raw.githubusercontent.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center/main/docs/screenshots/overview.png">
+  <img src="https://raw.githubusercontent.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center/main/docs/screenshots/overview.png" alt="AI Urban Traffic Command Center dashboard preview" width="100%">
+</a>
+
+**Python • Machine Learning • FastAPI • Streamlit**
+
+<a href="https://github.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://ai-urban-traffic-command-center.onrender.com/">Live Dashboard</a>
+&nbsp; • &nbsp;
+<a href="https://youtu.be/LpmQ1EvWxpo">Video Walkthrough</a>
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 ---
 
