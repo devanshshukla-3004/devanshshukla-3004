@@ -105,9 +105,32 @@ Python applications, APIs, automation and data-driven web applications.
 <tr>
 <td width="50%" valign="top">
 
+### 🚦 AI Urban Traffic Command Center
+
+An AI-driven traffic management prototype for exploring congestion patterns and environmental indicators through an interactive city dashboard. Uses simulated data; it is not connected to live traffic signals or sensors.
+
+<a href="https://raw.githubusercontent.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center/main/docs/screenshots/overview.png">
+  <img src="https://raw.githubusercontent.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center/main/docs/screenshots/overview.png" alt="AI Urban Traffic Command Center dashboard preview" width="100%">
+</a>
+
+**Python • Machine Learning • Streamlit • Data Visualization**
+
+<a href="https://github.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://ai-urban-traffic-command-center.onrender.com/">Live Dashboard</a>
+&nbsp; • &nbsp;
+<a href="https://youtu.be/LpmQ1EvWxpo">Video Walkthrough</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 📊 HR Employee Attrition
 
 Interactive workforce analytics dashboard covering attrition patterns, risk analysis and data-driven retention insights.
+
+<a href="https://raw.githubusercontent.com/devanshshukla-3004/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard/main/screenshots/01-overview.png">
+  <img src="https://raw.githubusercontent.com/devanshshukla-3004/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard/main/screenshots/01-overview.png" alt="HR Employee Attrition dashboard overview" width="100%">
+</a>
 
 **Python • Pandas • Plotly • Streamlit • Scikit-learn**
 
@@ -116,6 +139,8 @@ Interactive workforce analytics dashboard covering attrition patterns, risk anal
 <a href="https://hr-employee-attrition-and-workforce-analytics-dashboard-dirquy.streamlit.app/">Live Demo</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🤖 Inbox-Copilot
@@ -127,19 +152,19 @@ Python-based email-triage project focused on assisting with email organization a
 <a href="https://github.com/devanshshukla-3004/Inbox-Copilot">View Project</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏠 HireFlow
 
-A web-based project focused on simplifying the hiring workflow.
+An AI-assisted candidate screening and interview-intelligence prototype designed to support hiring workflows while keeping human decision-making in control.
 
-**HTML**
+**HTML • CSS • JavaScript • Gemini API**
 
 <a href="https://github.com/devanshshukla-3004/HireFlow">View Project</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔐 Security Utilities
@@ -151,6 +176,15 @@ Password strength checking and OTP generation/verification projects focused on f
 <a href="https://github.com/devanshshukla-3004/CS_2_PasswordStrengthChecker_BYTE">Password Checker</a>
 &nbsp; • &nbsp;
 <a href="https://github.com/devanshshukla-3004/CS_5_OTPGeneratorVerifier_BYTE">OTP Verifier</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 More Projects
+
+Explore my other experiments, tools and learning projects on GitHub.
+
+<a href="https://github.com/devanshshukla-3004?tab=repositories">Browse all repositories</a>
 
 </td>
 </tr>
