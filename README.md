@@ -105,45 +105,9 @@ Python applications, APIs, automation and data-driven web applications.
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ SentinelIQ — SOC Decision Intelligence
+### 📊 HR Employee Attrition
 
-A platform foundation for SOC workload visibility and future analyst-capacity planning. The current version provides the dashboard/API/data foundation with clearly labeled demo values; forecasting and recommendations are not implemented yet.
-
-**Next.js • TypeScript • FastAPI • PostgreSQL • Docker**
-
-<a href="https://github.com/devanshshukla-3004/SentinelIQ">GitHub Repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚦 AI Urban Traffic Command Center
-
-An ML-assisted traffic-management prototype combining congestion classification, signal-planning logic, simulation, demand forecasting, and model-based environmental analysis. Uses simulated traffic data, not live infrastructure.
-
-<a href="https://raw.githubusercontent.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center/main/docs/screenshots/overview.png">
-  <img src="https://raw.githubusercontent.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center/main/docs/screenshots/overview.png" alt="AI Urban Traffic Command Center dashboard preview" width="100%">
-</a>
-
-**Python • Machine Learning • FastAPI • Streamlit**
-
-<a href="https://github.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center">GitHub</a>
-&nbsp; • &nbsp;
-<a href="https://ai-urban-traffic-command-center.onrender.com/">Live Dashboard</a>
-&nbsp; • &nbsp;
-<a href="https://youtu.be/LpmQ1EvWxpo">Video Walkthrough</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 HR Employee Attrition Dashboard
-
-An interactive workforce analytics dashboard for exploring attrition patterns, employee segments, and risk-related insights.
-
-<a href="https://raw.githubusercontent.com/devanshshukla-3004/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard/main/screenshots/01-overview.png">
-  <img src="https://raw.githubusercontent.com/devanshshukla-3004/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard/main/screenshots/01-overview.png" alt="HR Employee Attrition dashboard overview" width="100%">
-</a>
+Interactive workforce analytics dashboard covering attrition patterns, risk analysis and data-driven retention insights.
 
 **Python • Pandas • Plotly • Streamlit • Scikit-learn**
 
@@ -154,43 +118,43 @@ An interactive workforce analytics dashboard for exploring attrition patterns, e
 </td>
 <td width="50%" valign="top">
 
-### 🍳 Kitchen Copilot
+### 🤖 Inbox-Copilot
 
-A hands-free voice cooking assistant built around reliable interruption and recovery: interrupted speech or tool results must not advance the recipe state incorrectly.
+Python-based email-triage project focused on assisting with email organization and processing.
 
-**Python • Voice AI • Agent Workflows**
+**Python**
 
-<a href="https://github.com/devanshshukla-3004/Kitchen-copilot">GitHub Repository</a>
+<a href="https://github.com/devanshshukla-3004/Inbox-Copilot">View Project</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 HireFlow
+### 🏠 HireFlow
 
-An AI-assisted candidate-screening and interview-intelligence prototype designed to provide evidence-backed support while keeping hiring decisions with people.
+A web-based project focused on simplifying the hiring workflow.
 
-**HTML • CSS • JavaScript • Gemini API**
+**HTML**
 
-<a href="https://github.com/devanshshukla-3004/HireFlow">GitHub Repository</a>
+<a href="https://github.com/devanshshukla-3004/HireFlow">View Project</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📬 Inbox-Copilot
+### 🔐 Security Utilities
 
-An email-triage automation project built to help organize and process email workflows.
+Password strength checking and OTP generation/verification projects focused on foundational security concepts.
 
-**Python • Gemini API • Firestore • GitHub Actions**
+**Python**
 
-<a href="https://github.com/devanshshukla-3004/Inbox-Copilot">GitHub Repository</a>
+<a href="https://github.com/devanshshukla-3004/CS_2_PasswordStrengthChecker_BYTE">Password Checker</a>
+&nbsp; • &nbsp;
+<a href="https://github.com/devanshshukla-3004/CS_5_OTPGeneratorVerifier_BYTE">OTP Verifier</a>
 
 </td>
 </tr>
 </table>
-
-**More cybersecurity practice:** <a href="https://github.com/devanshshukla-3004/CodeOrbit_PhishingEmailIdentifier">Phishing Email Identifier</a> · <a href="https://github.com/devanshshukla-3004/CodeOrbit_NetworkScanningExercise">Network Scanning</a> · <a href="https://github.com/devanshshukla-3004/CodeOrbit_VulnerabilityAssessment">Vulnerability Assessment</a> · <a href="https://github.com/devanshshukla-3004?tab=repositories">All repositories</a>
 ---
 
 ## 🎯 CURRENT FOCUS
