@@ -105,15 +105,26 @@ Python applications, APIs, automation and data-driven web applications.
 <tr>
 <td width="50%" valign="top">
 
+### 🛡️ SentinelIQ — SOC Decision Intelligence
+
+A platform foundation for SOC workload visibility and future analyst-capacity planning. The current version provides the dashboard/API/data foundation with clearly labeled demo values; forecasting and recommendations are not implemented yet.
+
+**Next.js • TypeScript • FastAPI • PostgreSQL • Docker**
+
+<a href="https://github.com/devanshshukla-3004/SentinelIQ">GitHub Repository</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🚦 AI Urban Traffic Command Center
 
-An AI-driven traffic management prototype for exploring congestion patterns and environmental indicators through an interactive city dashboard. Uses simulated data; it is not connected to live traffic signals or sensors.
+An ML-assisted traffic-management prototype combining congestion classification, signal-planning logic, simulation, demand forecasting, and model-based environmental analysis. Uses simulated traffic data, not live infrastructure.
 
 <a href="https://raw.githubusercontent.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center/main/docs/screenshots/overview.png">
   <img src="https://raw.githubusercontent.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center/main/docs/screenshots/overview.png" alt="AI Urban Traffic Command Center dashboard preview" width="100%">
 </a>
 
-**Python • Machine Learning • Streamlit • Data Visualization**
+**Python • Machine Learning • FastAPI • Streamlit**
 
 <a href="https://github.com/devanshshukla-3004/AI-Urban-Traffic-Command-Center">GitHub</a>
 &nbsp; • &nbsp;
@@ -122,11 +133,13 @@ An AI-driven traffic management prototype for exploring congestion patterns and 
 <a href="https://youtu.be/LpmQ1EvWxpo">Video Walkthrough</a>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 📊 HR Employee Attrition
+### 📊 HR Employee Attrition Dashboard
 
-Interactive workforce analytics dashboard covering attrition patterns, risk analysis and data-driven retention insights.
+An interactive workforce analytics dashboard for exploring attrition patterns, employee segments, and risk-related insights.
 
 <a href="https://raw.githubusercontent.com/devanshshukla-3004/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard/main/screenshots/01-overview.png">
   <img src="https://raw.githubusercontent.com/devanshshukla-3004/HR-Employee-Attrition-and-Workforce-Analytics-Dashboard/main/screenshots/01-overview.png" alt="HR Employee Attrition dashboard overview" width="100%">
@@ -139,57 +152,45 @@ Interactive workforce analytics dashboard covering attrition patterns, risk anal
 <a href="https://hr-employee-attrition-and-workforce-analytics-dashboard-dirquy.streamlit.app/">Live Demo</a>
 
 </td>
+<td width="50%" valign="top">
+
+### 🍳 Kitchen Copilot
+
+A hands-free voice cooking assistant built around reliable interruption and recovery: interrupted speech or tool results must not advance the recipe state incorrectly.
+
+**Python • Voice AI • Agent Workflows**
+
+<a href="https://github.com/devanshshukla-3004/Kitchen-copilot">GitHub Repository</a>
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Inbox-Copilot
+### 🤖 HireFlow
 
-Python-based email-triage project focused on assisting with email organization and processing.
-
-**Python**
-
-<a href="https://github.com/devanshshukla-3004/Inbox-Copilot">View Project</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 HireFlow
-
-An AI-assisted candidate screening and interview-intelligence prototype designed to support hiring workflows while keeping human decision-making in control.
+An AI-assisted candidate-screening and interview-intelligence prototype designed to provide evidence-backed support while keeping hiring decisions with people.
 
 **HTML • CSS • JavaScript • Gemini API**
 
-<a href="https://github.com/devanshshukla-3004/HireFlow">View Project</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Security Utilities
-
-Password strength checking and OTP generation/verification projects focused on foundational security concepts.
-
-**Python**
-
-<a href="https://github.com/devanshshukla-3004/CS_2_PasswordStrengthChecker_BYTE">Password Checker</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/devanshshukla-3004/CS_5_OTPGeneratorVerifier_BYTE">OTP Verifier</a>
+<a href="https://github.com/devanshshukla-3004/HireFlow">GitHub Repository</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧪 More Projects
+### 📬 Inbox-Copilot
 
-Explore my other experiments, tools and learning projects on GitHub.
+An email-triage automation project built to help organize and process email workflows.
 
-<a href="https://github.com/devanshshukla-3004?tab=repositories">Browse all repositories</a>
+**Python • Gemini API • Firestore • GitHub Actions**
+
+<a href="https://github.com/devanshshukla-3004/Inbox-Copilot">GitHub Repository</a>
 
 </td>
 </tr>
 </table>
 
+**More cybersecurity practice:** <a href="https://github.com/devanshshukla-3004/CodeOrbit_PhishingEmailIdentifier">Phishing Email Identifier</a> · <a href="https://github.com/devanshshukla-3004/CodeOrbit_NetworkScanningExercise">Network Scanning</a> · <a href="https://github.com/devanshshukla-3004/CodeOrbit_VulnerabilityAssessment">Vulnerability Assessment</a> · <a href="https://github.com/devanshshukla-3004?tab=repositories">All repositories</a>
 ---
 
 ## 🎯 CURRENT FOCUS
