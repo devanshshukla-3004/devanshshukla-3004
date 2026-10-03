@@ -11,6 +11,10 @@
 <a href="https://github.com/devanshshukla-3004">
   <img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
 </a>
+&nbsp;
+<a href="https://devansh-shukla-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio Website">
+</a>
 
 </div>
 
@@ -270,6 +274,10 @@ I'm working toward a portfolio of **advanced, practical systems** across Data Sc
 
 <a href="https://github.com/devanshshukla-3004">
 <img src="https://img.shields.io/badge/GITHUB-8B5CF6?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
+</a>
+&nbsp;
+<a href="https://devansh-shukla-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio Website">
 </a>
 
 <br><br>
